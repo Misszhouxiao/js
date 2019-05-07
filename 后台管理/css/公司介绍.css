@@ -1,0 +1,30 @@
+.Top{
+	width: 100%;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+.Top_1 span{
+	color: #0084D3;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 30px;
+	margin-right: 5px;
+	margin-left: 3px;
+}
+.gsjs-form {
+    margin: 10px;
+}
+.gsjs-form dl {
+    margin: 20px 0;
+}
+.gsjs_title {
+    width: 10%;
+    font-size: 14px;
+}
+.textarea-default {
+    width: 600px;
+    height: 90px;
+}
+.gsjs_btntit {
+    text-indent: -9999px;
+}

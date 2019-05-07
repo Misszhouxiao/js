@@ -1,0 +1,38 @@
+.cointent{
+	width: 100%;
+}
+.cointent_1{
+	float: left;
+	width: 49.5%;
+}
+.cointent_left{
+	height: 125px;
+	background: #3C99F5;
+	margin-bottom: 10px;
+	color: #fff;
+	overflow: hidden;
+}
+.cointent_left p{
+	font-size: 15px;
+	margin: 10px 0px 15px 8px;
+}
+.cointent li{
+	font-size: 12px ;
+	margin-top: 5px;
+	margin-left: 8px;
+}
+.cointent_2{
+	float: right;
+	width: 49.5%;
+}
+.cointent_right{
+	height: 95px;
+	background: yellowgreen;
+	margin-bottom: 10px;
+	color: #fff;
+	overflow: hidden;
+}
+.cointent_right p{
+	font-size: 15px;
+	margin: 10px 0px 15px 8px;
+}

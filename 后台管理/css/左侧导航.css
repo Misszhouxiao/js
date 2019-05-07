@@ -1,0 +1,46 @@
+.leftmenu {
+    width: 187px;
+    position: absolute;
+    top: 70px;
+    left: 0;
+    bottom: 0;
+    z-index: 99;
+    background: url(../img/left_bg.png) repeat-y;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.leftmenu dl dt {
+    width: 187px;
+    height: 28px;
+    line-height: 28px;
+    text-indent: 20px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 14px;
+    background: #009beb url(../img/ico_small.png) right 12px no-repeat;
+    cursor: pointer;
+}
+.leftmenu dl dd ul li {
+    width: 170px;
+    float: right;
+    height: 26px;
+    line-height: 26px;
+    text-indent: 10px;
+}
+.leftmenu dl dd ul {
+    padding: 5px 0;
+}
+.leftmenu dl dd ul li a {
+    width: 169px;
+    height: 24px;
+    line-height: 24px;
+    display: block;
+    background: #EDFBFF;
+    color: #333;
+}
+.leftmenu dl dd ul li a:hover {
+    color: #009beb;
+    border-top: 1px solid #B8C8D2;
+    border-left: 1px solid #B8C8D2;
+    border-bottom: 1px solid #B8C8D2;
+}

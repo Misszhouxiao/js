@@ -1,0 +1,39 @@
+.content{
+	width: 500px;
+	height: 340px ;
+	background: #0077ca;
+	position: absolute;
+	top: 200px;
+	left: 500px;
+}
+.DengLu{
+	color: #fff;
+	font-size: 20px;
+	margin: 20px 20px;
+}
+.content ul li {
+	margin-left: 70px;
+	color: #FFFFFF;
+	font-size: 16px;
+	margin-bottom: 22px;
+}.content input{
+	width: 250px;
+    height: 25px;
+}
+.verifyimg img{
+	margin-left: 160px;
+	margin-bottom: 20px;
+}
+.content ul li input[type="button"]{
+	width: 80px;
+    height: 34px;
+    border: none;
+    background: #00497d;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 90px;
+    cursor: pointer;
+}
+.content ul li input[type="button"]:hover{
+	background: #015997;
+}
